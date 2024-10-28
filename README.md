@@ -1,7 +1,3 @@
-Here's an enhanced version of the documentation for your E-commerce Database System:
-
----
-
 # E-commerce Database System
 
 ## Overview
